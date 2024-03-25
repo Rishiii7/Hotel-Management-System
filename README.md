@@ -2,7 +2,7 @@
 
 Simulating Real-World problem of migrating an "on-premises" application & database to Multicloud Architecture.
 
-![SAA.jpeg]
+![SAA.jpeg](https://github.com/Rishiii7/Hotel-Management-System/blob/main/SAA.jpeg)
 
 ============================================================================================== <br>
                                 Walkthorugh<br>
