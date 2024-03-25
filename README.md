@@ -75,3 +75,5 @@ Simulating Real-World problem of migrating an "on-premises" application & databa
     upload folder <pdf_files>
     aws s3 sync . s3://<your-s3-bucket-name>
     ```
+
+Credits : ![The cloud boot camp](https://www.youtube.com/@thecloudbootcamp)
