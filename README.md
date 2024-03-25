@@ -2,9 +2,9 @@
 
 Simulating Real-World problem of migrating an "on-premises" application & database to Multicloud Architecture.
 
-//===============================================
-                    Walkthorugh
-//===============================================
+============================================================================================== <br>
+                                Walkthorugh<br>
+============================================================================================== <br>
 
 1. Create the ```terraform``` user using the IAM service and give ```AmazonS3FullAccess``` permission to this user
 2. Download the .csv file and place it root folder
@@ -46,8 +46,10 @@ Simulating Real-World problem of migrating an "on-premises" application & databa
     exit;
     ```
 9. Build the Docker image and push it to Google Container Registry.
-    ```gcloud builds submit --tag gcr.io/$GOOGLE_CLOUD_PROJECT_ID/luxxy-covid-testing-system-app-en```
-10. Edit the Kubernetes deployment file
+    ```
+     gcloud builds submit --tag gcr.io/$GOOGLE_CLOUD_PROJECT_ID/luxxy-covid-testing-system-app-en
+    ```
+11. Edit the Kubernetes deployment file
     ```
     image: gcr.io/<PROJECT_ID>/luxxy-covid-testing-system-app-en:latest
     ...
@@ -60,13 +62,13 @@ Simulating Real-World problem of migrating an "on-premises" application & databa
     - name: DB_HOST_NAME
         value: "<ptivate-ip>"
     ```
-11. Connect to the GKE (Google Kubernetes Engine) cluster via Console
-12. Deploy the application Luxxy in the Cluste 
+12. Connect to the GKE (Google Kubernetes Engine) cluster via Console
+13. Deploy the application Luxxy in the Cluste 
 ```kubectl apply -f luxxy-covid-testing-system.yaml```
-13. Under GKE > Workloads > Exposing Services, get the application Public IP
-14. Import the dump on Cloud SQL
+14. Under GKE > Workloads > Exposing Services, get the application Public IP
+15. Import the dump on Cloud SQL
     ``` source ~/mission3/en/db/db_dump.sql```
-15. In AWS cloud shell,
+16. In AWS cloud shell,
     ```
     upload folder <pdf_files>
     aws s3 sync . s3://<your-s3-bucket-name>
