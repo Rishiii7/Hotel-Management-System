@@ -2,6 +2,8 @@
 
 Simulating Real-World problem of migrating an "on-premises" application & database to Multicloud Architecture.
 
+![SAA.jpeg]
+
 ============================================================================================== <br>
                                 Walkthorugh<br>
 ============================================================================================== <br>
