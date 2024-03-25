@@ -2,9 +2,9 @@
 
 Simulating Real-World problem of migrating an "on-premises" application & database to Multicloud Architecture.
 
-//=============================================== <br>
-                    Walkthorugh
-//===============================================
+============================================================================================== <br>
+                    Walkthorugh<br>
+============================================================================================== <br>
 
 1. Create the ```terraform``` user using the IAM service and give ```AmazonS3FullAccess``` permission to this user
 2. Download the .csv file and place it root folder
