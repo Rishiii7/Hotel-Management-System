@@ -4,9 +4,9 @@ Simulating Real-World problem of migrating an "on-premises" application & databa
 
 ![SAA.jpeg](https://github.com/Rishiii7/Hotel-Management-System/blob/main/SAA.jpeg)
 
-# ============================================================================================== <br>
+ ============================================================================================== <br>
                                 Walkthorugh<br>
-# ============================================================================================== <br>
+ ============================================================================================== <br>
 
 1. Create the ```terraform``` user using the IAM service and give ```AmazonS3FullAccess``` permission to this user
 2. Download the .csv file and place it root folder
@@ -76,9 +76,9 @@ Simulating Real-World problem of migrating an "on-premises" application & databa
     aws s3 sync . s3://<your-s3-bucket-name>
     ```
 
-# ============================================================================================== <br>
+ ============================================================================================== <br>
                                 Screen Shots
-# ============================================================================================== <br>
+ ============================================================================================== <br>
 ![screenshots/Screenshot 2024-03-24 at 12.52.21 PM.png]
 ![screenshots/Screenshot 2024-03-24 at 12.52.37 PM.png]
 
