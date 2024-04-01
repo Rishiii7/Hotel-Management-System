@@ -79,8 +79,8 @@ Simulating Real-World problem of migrating an "on-premises" application & databa
  ============================================================================================== <br>
                                 Screen Shots
  ============================================================================================== <br>
-![screenshots/Screenshot 2024-03-24 at 12.52.21 PM.png]
-![screenshots/Screenshot 2024-03-24 at 12.52.37 PM.png]
+![Screenshot 2024-03-24 at 12.52.21 PM.png](Screenshot 2024-03-24 at 12.52.21 PM.png)
+![screenshots/Screenshot 2024-03-24 at 12.52.37 PM.png](Screenshot 2024-03-24 at 12.52.37 PM.png)
 
 
 Credits : ![The cloud boot camp](https://www.youtube.com/@thecloudbootcamp) for providing a great course
