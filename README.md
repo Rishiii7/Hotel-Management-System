@@ -79,8 +79,8 @@ Simulating Real-World problem of migrating an "on-premises" application & databa
  ============================================================================================== <br>
                                 Screen Shots
  ============================================================================================== <br>
-![Screenshot 2024-03-24 at 12.52.21 PM.png](Screenshot 2024-03-24 at 12.52.21 PM.png)
-![screenshots/Screenshot 2024-03-24 at 12.52.37 PM.png](Screenshot 2024-03-24 at 12.52.37 PM.png)
+![Screenshot 2024-03-24 at 12.52.21 PM.png](https://github.com/Rishiii7/Hotel-Management-System/blob/main/Screenshot%202024-03-24%20at%2012.52.21%E2%80%AFPM.png)
+![screenshots/Screenshot 2024-03-24 at 12.52.37 PM.png](https://github.com/Rishiii7/Hotel-Management-System/blob/main/Screenshot%202024-03-24%20at%2012.52.37%E2%80%AFPM.png)
 
 
 Credits : ![The cloud boot camp](https://www.youtube.com/@thecloudbootcamp) for providing a great course
